@@ -1,37 +1,17 @@
 # CodeX
-SQL &amp; Power BI
+#### Domain: F & B  
+#### Function: Marketing  
 
+### Problem Statement 
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
-This is the project for the company CodeX. 
+Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
-CodeX is German based food & Beveraging company.
-
-About the project
-
-o	A few months ago, the company CodeX launched their energy drink in 10 cities of India.
-
-o	Their Marketing team is responsible for increasing brand awareness, market share, and product development.
-
-o	They conducted a survey in those 10 cities and received results from 10k respondents.
-
-o	As the data analyst, my responsibility is to transform these survey results into actionable insights that can be utilized by the team to drive effective actions
-
-Other sources provided
-
-o	Dataset required to generate insights  
-
-o	Metadata
-
-o	Survey questions   
-
-Tools Used 
-
-o	My SQL – For Queries 
-
-o	Power BI – Applied for Data visualization
-
-o	Power Point – Audio & Video Presentation
-
+### Techstack
+<p>
+<a align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/power%20bi.svg" alt="shandeep_2003" height="35" width="35" /></a>
+<a align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/PostgreSQL.svg" alt="shandeep_2003" height="35" width="35" /></a>
+</p>
 
 
 
