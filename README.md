@@ -11,7 +11,9 @@ Their Marketing team is responsible for increasing brand awareness, market share
 <p>
 <a align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/PostgreSQL.svg" alt="shandeep_2003" height="40" width="40" /></a>
 </p>
-
+<p>
+<a align="center"><img src="https://github.com/Shandeep-Raula/Shandeep-Raula/blob/main/social/Powerbi.svg" alt="shandeep_2003" height="40" width="40" /></a>
+</p>
 
 
 
