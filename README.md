@@ -1,5 +1,5 @@
 # CodeX
-#### Domain: F & B  
+#### Domain: Food & Bavrage  
 #### Function: Marketing  
 
 ### Problem Statement 
