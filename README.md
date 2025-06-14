@@ -100,7 +100,19 @@ Their Marketing team is responsible for increasing brand awareness, market share
 - 17% are influenced by effectiveness, indicating the need for better performance or perceived benefits.
 - 17% fall under other reasons, showing varied and less predictable factors.
 
-  
+### ✅ Recommendations
+
+- **Target young adults (19–30)** — especially males and females — as they are the biggest consumers.
+- **Use compact cans and stylish bottles** for packaging — they are the most preferred.
+- **Keep prices between ₹50–₹99**, as most people prefer this range.
+- **Sell mainly in supermarkets and online** — these are the most popular purchase spots.
+- **Promote for sports and late-night work/study** — top reasons people drink energy drinks.
+- **Build a strong brand image** — many people choose other brands due to better reputation.
+- **Improve taste and availability** — important reasons why customers switch brands.
+- **Try limited edition packaging** — many people are interested in special versions.
+- **Focus more on top cities like Bangalore, Hyderabad, and Mumbai** for better impact.
+
+
 ### Dashboard
 ![Dashboard](https://github.com/Shandeep-Raula/CodeX/blob/main/CodeX_Dashboard.jpg)
 
