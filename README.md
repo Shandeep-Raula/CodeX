@@ -31,7 +31,13 @@ Their Marketing team is responsible for increasing brand awareness, market share
 - Very few responses were received from participants aged **65+**, across all genders.
 - Non-binary responses are generally **lower across all age groups**, with **most responses from ages 31–45**.
 
-
+#### 👥 Energy Drink Preferences by Gender and Age Group
+![](https://github.com/Shandeep-Raula/CodeX/blob/main/Fig/Preference%20for%20Energy%20Drinks%20by%20Gender%20and%20Age%20Group.png)
+- Ages 19–30 are the top consumers across all genders, with males leading the count significantly (~3300).
+- Males aged 31–45 and females aged 19–30 form the next largest consumer groups.
+- Teenagers (15–18) show moderate interest, especially among males.
+- Older adults (46–65 and 65+) show minimal preference, indicating low engagement in senior demographics.
+- Non-binary individuals also prefer energy drinks in the 19–30 age range, though in smaller numbers.
 
 #### 🛒 Preferred Purchase Locations
 ![](https://github.com/Shandeep-Raula/CodeX/blob/main/Fig/Preferred%20Purchase%20Locations.png)
@@ -55,7 +61,13 @@ Their Marketing team is responsible for increasing brand awareness, market share
 - **Social outings/parties** represent **15%**, while **Driving/Commuting** and **Other** account for just **3%** and **5%**, respectively.
 
 
-
+#### 📦 Packaging Preferences for Energy Drinks
+![](https://github.com/Shandeep-Raula/CodeX/blob/main/Fig/Packaging%20Preferences%20for%20Energy%20Drinks%20Among%20the%20General%20Population.png)
+- 40% prefer compact and portable cans, indicating a strong demand for convenience.
+- 30% value innovative bottle designs, suggesting design appeal is a key factor.
+- 15% are drawn to collectible packaging, highlighting a niche but loyal segment.
+- 10% prefer eco-friendly designs, showing growing awareness of sustainability.
+- 5% fall under other preferences, indicating a small but diverse market.
 
 #### 🎁 Interest in Limited Edition Packaging
 ![](https://github.com/Shandeep-Raula/CodeX/blob/main/Fig/Interest%20in%20Limited%20Edition%20Packaging.png)
@@ -80,7 +92,13 @@ Their Marketing team is responsible for increasing brand awareness, market share
 - **CodeX** and **Sky 9** each hold **10%**.
 - **Others** account for the remaining **5%** of the market.
 
-
+#### 🛍️ Reasons Customers Choose Other Brands
+![](https://github.com/Shandeep-Raula/CodeX/blob/main/Fig/Possible%20Reasons%20for%20Choosing%20Other%20Brands%20Over%20Ours.png)
+- 27% switch due to brand reputation, emphasizing the need to build trust and visibility.
+- 20% prefer the taste/flavor of other brands, showing product formulation matters.
+- 19% cite availability, suggesting improvements in distribution can reduce churn.
+- 17% are influenced by effectiveness, indicating the need for better performance or perceived benefits.
+- 17% fall under other reasons, showing varied and less predictable factors.
 
   
 ### Dashboard
